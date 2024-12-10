@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-09T21:08:59 IST" name="Default suite" finished-at="2024-12-09T21:09:35 IST" duration-ms="36192">
+    <groups>
+      <group name="smokeTest">
+        <method signature="SearchOrganisationTest.searchTest()[pri:0, instance:com.pixated.crm.organizationTest.SearchOrganisationTest@298a5e20]" name="searchTest" class="com.pixated.crm.organizationTest.SearchOrganisationTest"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2024-12-09T21:08:59 IST" name="Default test" finished-at="2024-12-09T21:09:35 IST" duration-ms="36192">
+      <class name="com.pixated.crm.organizationTest.SearchOrganisationTest">
+        <test-method is-config="true" signature="configBs()[pri:0, instance:com.pixated.crm.organizationTest.SearchOrganisationTest@298a5e20]" started-at="2024-12-09T21:08:59 IST" name="configBs" finished-at="2024-12-09T21:08:59 IST" duration-ms="553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBs -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pixated.crm.organizationTest.SearchOrganisationTest@298a5e20]" started-at="2024-12-09T21:08:59 IST" name="configBC" finished-at="2024-12-09T21:09:07 IST" duration-ms="8070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.pixated.crm.organizationTest.SearchOrganisationTest@298a5e20]" started-at="2024-12-09T21:09:07 IST" name="configBM" finished-at="2024-12-09T21:09:19 IST" duration-ms="11224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="searchTest()[pri:0, instance:com.pixated.crm.organizationTest.SearchOrganisationTest@298a5e20]" started-at="2024-12-09T21:09:19 IST" name="searchTest" finished-at="2024-12-09T21:09:34 IST" duration-ms="15837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.pixated.crm.organizationTest.SearchOrganisationTest@298a5e20]" started-at="2024-12-09T21:09:34 IST" name="configAM" finished-at="2024-12-09T21:09:35 IST" duration-ms="649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.pixated.crm.organizationTest.SearchOrganisationTest@298a5e20]" started-at="2024-12-09T21:09:35 IST" name="configAC" finished-at="2024-12-09T21:09:35 IST" duration-ms="381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.pixated.crm.organizationTest.SearchOrganisationTest@298a5e20]" started-at="2024-12-09T21:09:35 IST" name="configAS" finished-at="2024-12-09T21:09:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.pixated.crm.organizationTest.SearchOrganisationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
